@@ -1,5 +1,6 @@
 # camera-edge-ai
-![Uploading image.png…]()
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bb8b59df-38e8-4be0-b558-900cc20bf723" />
+
 
                 ──────────────────────┐
                 │   Camera Module      │
